@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+    margin: 0%;
+}
+.order-food{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 25px;
+    columns: white;
+    font-size: small;
+    border-radius: 30px;
+}
+.diet{
+    color: crimson;
+}
+section{
+    display: flex;
+    margin-bottom: 15%;
+}
+.half-width{
+    width: 40%;
+    padding-left:6%;
+}
+.half-width img{
+    width: 80%;
+}
+.contact-info{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 25px;
+    columns: white;
+    font-size: small;
+    border-radius: 30px;
+}
+.background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.text{
+    text-align: center;
+    padding: 40px,10px;
+}
